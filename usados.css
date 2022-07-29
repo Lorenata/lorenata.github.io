@@ -1,0 +1,31 @@
+body{
+    background-color: bisque;
+}
+.usa1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;   
+    text-align: center;
+}
+.usa1 img{
+    float:center;
+}
+
+.usa2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;  
+    text-align:center; 
+}
+
+.usa2 img{
+    float:center;
+}
+
+.usa3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;  
+    text-align:center; 
+}
+
+.usa3 img{
+    float:center;
+}

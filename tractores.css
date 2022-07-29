@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+}
+.trac1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;   
+    text-align: center;
+}
+.trac1 img{
+    float:center;
+}
+
